@@ -1,4 +1,4 @@
-# Alura-Robotron
+# Alura Robotron
 Projeto JavaScript - Alura Robotron
 
 Para acessar o site do projeto visite:
